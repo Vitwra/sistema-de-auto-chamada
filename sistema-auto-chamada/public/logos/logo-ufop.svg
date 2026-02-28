@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 80" width="120" height="80">
+  <rect width="120" height="50" fill="#5a6268"/>
+  <rect y="50" width="120" height="30" fill="#8b2942"/>
+  <text x="60" y="68" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">UFOP</text>
+  <text x="60" y="42" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">Universidade Federal de Ouro Preto</text>
+</svg>
